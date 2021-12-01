@@ -1,3 +1,3 @@
-export const API = 'http://localhost:8001/products';
-export const APIcomments = 'http://localhost:8001/comments';
-export const APIlikes = 'http://localhost:8001/likes';
+export const API = 'https://makers-music1.herokuapp.com/products/api';
+export const APIcomments = 'https://makers-music1.herokuapp.com/comments/api';
+export const APIlikes = 'https://makers-music1.herokuapp.com/likes/api';
